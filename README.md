@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Adi06121999
+- 👋 Hi, I’m Aditya Jain 
+- @Adi06121999
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Full Stack and Flutter
 - 💞️ I’m looking to collaborate on Full Stack
